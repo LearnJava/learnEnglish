@@ -1,0 +1,14 @@
+# Project files #
+*.class
+*.iml
+
+
+# Package Files #
+*.jar
+!swt.jar
+*.war
+*.ear
+
+# Project folders #
+out/
+.idea/
