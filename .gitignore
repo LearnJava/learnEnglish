@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project files #
 *.class
 *.iml
@@ -12,3 +13,11 @@
 # Project folders #
 out/
 .idea/
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> d28c4375ca6ad378e299ed1d6869881097eac158
