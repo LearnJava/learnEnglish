@@ -4,18 +4,12 @@
 
 # Package Files #
 *.jar
-!swt.jar
+#!swt*.jar
 *.war
 *.ear
-
-# Project folders #
-!libs/
-out/
-.idea/
 *.class
 
-# Package Files #
-*.jar
-*.war
-*.ear
-
+# Project folders #
+libs/!*.jar
+out/
+.idea/
